@@ -1,6 +1,6 @@
 # Hi there, I'm [Ebram Wagdy] 👋
 
-I'm a **Data Analyst & BI Developer** passionate about transforming raw data into actionable business intelligence, interactive dashboards, and optimized data models.
+I'm a **Microsoft Certified Power BI Data Analyst (PL-300)** passionate about transforming raw data into actionable business intelligence, interactive dashboards, and optimized data models.
 
 ---
 
