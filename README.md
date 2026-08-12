@@ -60,7 +60,6 @@ I'm a **Data Analyst & BI Developer** passionate about transforming raw data int
   <!-- Power BI -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
   <!-- Excel -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Excel" width="40" height="40" style="display:none;"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel.png" alt="Excel" width="40" height="40"/>
   <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -70,8 +69,10 @@ I'm a **Data Analyst & BI Developer** passionate about transforming raw data int
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <!-- Microsoft SQL Server -->
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-  <!-- Pandas -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+
   <!-- Figma -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </p>
+
+<!-- Looker Studio -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Looker_Studio_logo.svg" alt="Looker Studio" width="40" height="40"/>
