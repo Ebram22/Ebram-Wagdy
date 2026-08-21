@@ -4,8 +4,6 @@ I'm a **Microsoft Certified Power BI Data Analyst (PL-300)** passionate about tr
 
 ---
 
-### 🚀 Technical Stack
-
 ### 🛠️ Technical Skills
 
 #### 🗄️ Databases & Languages
